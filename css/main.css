@@ -2535,6 +2535,7 @@ html.no-csstransitions .hero-content {
 
 
 .profile-pic-mob{
+  
   display: none;
 }
 /* ------------------------------------------------------------------- 
@@ -2589,6 +2590,7 @@ html.no-csstransitions .hero-content {
 
 
   .profile-pic-mob{
+    margin-left: 30%;
     display: block;
   }
   .position {
